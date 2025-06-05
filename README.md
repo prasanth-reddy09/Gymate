@@ -6,7 +6,7 @@
 
 <p>Credits for the design goes to <a href='https://www.linkedin.com/in/stefan-topalovic-dev/'></a>Stefan Topalovic</p>
 
-👉 Live Demo: <a href=''>Gymate Demo</a>
+👉 Live Demo: <a href='https://gymate-09.netlify.app/'>Gymate Demo</a>
 
 <h3>Build with:</h3>
 
